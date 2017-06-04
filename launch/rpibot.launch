@@ -1,0 +1,4 @@
+<launch>
+  <node name="motor_driver" pkg="rpi3bot" type="motor_driver" output="screen" >
+  </node>
+</launch>
